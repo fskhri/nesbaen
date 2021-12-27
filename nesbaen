@@ -1,0 +1,9 @@
+{
+  "name": "whatsapp-bot",
+  "description": "Nesbaen, saya adalah bot absen",
+  "repository": "https://github.com/reacto11mecha",
+  "author": "Ezra Khairan Permana",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp-bot-nodejs", "nodejs-bot", "javascript", "whatsapp automation"],
+  "buildpacks": [{
+    "url": "heroku/nodejs"
+}
