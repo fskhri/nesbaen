@@ -92,3 +92,5 @@ npm start
 ```
 
 Jika baru pertama kali menjalankan, scan barcode di terminal untuk dihubungkan ke whatsapp di handphone.
+  
+  untuk menggunakan Heroku Harap ikuti seperti ini https://cdn.discordapp.com/attachments/847436499816284160/956696736074723328/unknown.png
